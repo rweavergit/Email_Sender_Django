@@ -1,1 +1,1 @@
-# Email_Sender_Django
+You can develop an email Automator in Django that automatically sends emails to a defined group of subscribers. You’ll have the option of changing the email’s message and selecting the recipients. It’s an easy, enjoyable, and exciting project.
